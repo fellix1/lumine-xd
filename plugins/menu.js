@@ -174,17 +174,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedFooterText:'Ⓟ premium | Ⓛ limit',
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Website',
-                                    url: 'https://Ainebot.github.io/'
+                                    displayText: 'Github',
+                                    url: 'https://github.com/fellix1'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi',
+                                    displayText: 'bagi jajan',
                                     id: '/donasi'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Sewa',
+                                    displayText: 'sewa',
                                     id: '/sewa'
                                 }  
                             }, {
