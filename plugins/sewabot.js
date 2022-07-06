@@ -26,7 +26,7 @@ Rp. 20.000 Pulsa
 
 wa.me/${owner[0]}
 *Bukan Bot!!!*
-*Rio Ch. ${conn.user.name}*
+*Owner ${conn.user.name}*
 `,
   buttonText: 'Harga Sesuai Pasaran',
   listType: 2,
